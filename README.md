@@ -29,6 +29,8 @@ it would be nice also to:
 * Make available some utlilities to check element visibility or presence or clickability for use on Steps files.
 * Documentation on code.
 
+#### Issues ####
+For some reason on my machine the --headless flag of chromedriver was not working properly, while without flag all tests were good.
 
 ## Installation ##
 
