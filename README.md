@@ -25,12 +25,12 @@ I would also like to automate (but not using Selenium):
 it would be nice also to:
 * Test from other supported devices (if any).
 * Test on other browsers.
-* Test the page layout with different resolutions (here I don't know if Selenium would be the best choice).
+* Test the page layout with different resolutions.
 * Make available some utlilities to check element visibility or presence or clickability for use on Steps files.
 * Documentation on code.
 
 #### Issues ####
-For some reason on my machine the --headless flag of chromedriver was not working properly, while without flag all tests were good.
+For some reason on my machine the --headless flag of chromedriver was not working properly, while without that option all tests were good. Could be something related to my machine, let me know if headless works for you.
 
 ## Installation ##
 
